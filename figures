@@ -1,1 +1,3 @@
-
+git clone https://github.com/Tafirenyika-AI/early-disease-signal-detection-us-communities
+cd early-disease-signal-detection-us-communities
+ls -la figures/
